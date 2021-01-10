@@ -1,3 +1,3 @@
 ## fragment-shader-circle.c
 
-![alt text](https://github.com/vmxdev/oglestst/blob/master/fragment-shader-circle.png?raw=true)
+![fragment-shader-circle.c screenshot](https://raw.githubusercontent.com/vmxdev/oglestst/master/fragment-shader-circle.png)
